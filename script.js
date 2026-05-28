@@ -1,7 +1,7 @@
 function sifreSor() {
     let sifre = prompt("Şifre gir:");
 
-    if (sifre === "sudem0328") {
+    if (sifre === "benilyam1705") {
         document.getElementById("login").style.display = "none";
         document.getElementById("site").style.display = "block";
 
